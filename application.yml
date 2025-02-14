@@ -13,5 +13,5 @@ microservice:
       fetchUserById:
         uri:http://PAYMENT-SERVICE/payment/
 test:
-input: 1
+  input: 1
           
