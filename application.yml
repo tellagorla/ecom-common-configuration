@@ -7,12 +7,11 @@ microservice:
   payment-service:
     endpoints:
       fetchPaymentById:
-        uri:http://PAYMENT-SERVICE/payment/
+        uri: http://PAYMENT-SERVICE/payment/
   user-service:
     endpoints:
       fetchUserById:
-        uri:http://USER-SERVICE/user/
-        
+        uri: http://USER-SERVICE/user/
+
 test:
   input: 1
-          
