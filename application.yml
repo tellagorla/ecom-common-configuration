@@ -7,9 +7,9 @@ microservice:
   payment-service:
     endpoints:
       fetchPaymentById:
-        uri: http://PAYMENT-SERVICE/payment/
+        url: http://PAYMENT-SERVICE/payment/
   user-service:
     endpoints:
       fetchUserById:
-        uri: http://USER-SERVICE/user/
+        url: http://USER-SERVICE/user/
 
