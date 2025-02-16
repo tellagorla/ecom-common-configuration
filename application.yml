@@ -13,5 +13,9 @@ microservice:
     endpoints:
       fetchUserById:
         uri: http://USER-SERVICE/users/
+logging:
+  file:
+    name: C:\Users\dines\OneDrive\Desktop\app-logs\ecom-log        
+        
         
 
