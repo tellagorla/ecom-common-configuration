@@ -15,7 +15,7 @@ microservice:
         uri: http://USER-SERVICE/users/
 logging:
   file:
-    name: C:\Users\dines\OneDrive\Desktop\app-logs\ecom-log        
+    name: C:\Users\dines\OneDrive\Desktop\app-logs\ecom-app-log        
         
         
 
